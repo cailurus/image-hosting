@@ -1,7 +1,7 @@
 # image-hosting
 
 
-![](https://cdn.jsdelivr.net/gh/cailurus/image-hosting@main/hands_key_points.png)
+![](https://cdn.jsdelivr.net/gh/cailurus/image-hosting@main/hands_key_points.jpg)
 
 ![](https://cdn.jsdelivr.net/gh/cailurus/image-hosting@main/model_1_static_sample.jpg)
 
